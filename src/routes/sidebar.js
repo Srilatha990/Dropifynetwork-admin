@@ -46,16 +46,16 @@ const sidebar = [
     ],
   },
 
-  {
-    path: "/customers",
-    icon: FiUsers,
-    name: "Customers",
-  },
-  {
-    path: "/orders",
-    icon: FiCompass,
-    name: "Orders",
-  },
+  // {
+  //   path: "/customers",
+  //   icon: FiUsers,
+  //   name: "Customers",
+  // },
+  // {
+  //   path: "/orders",
+  //   icon: FiCompass,
+  //   name: "Orders",
+  // },
 
   {
     path: "/our-staff",
